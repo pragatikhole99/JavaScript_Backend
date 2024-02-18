@@ -1,0 +1,19 @@
+{
+  "name": "bjvideo_07",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pragatikhole99/Javascript_Backend.git"
+  },
+  "author": "Pragati khole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pragatikhole99/Javascript_Backend/issues"
+  },
+  "homepage": "https://github.com/pragatikhole99/Javascript_Backend#readme"
+}
